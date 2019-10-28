@@ -1,0 +1,2 @@
+Main-class: TeachingRecord
+Class-Path: ojdbc7.jar
