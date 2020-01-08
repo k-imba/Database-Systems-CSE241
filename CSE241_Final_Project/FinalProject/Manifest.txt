@@ -1,0 +1,2 @@
+Main-class: Hurts_RAL
+Class-Path: ojdbc7.jar
