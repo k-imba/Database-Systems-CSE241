@@ -9,6 +9,6 @@ In the customer view, visitors can make a reservation for a specific vehicle at 
 
 
 ### Errors:
-When inputting a car model with more than 6 characters, an exception is thrown.
+When inputting a car model with more than 20 characters, an exception is thrown.
 
 
