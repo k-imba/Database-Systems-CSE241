@@ -1,1 +1,0 @@
-This program has two views: employee and customer. in employee, you can add a vehicle to the fleet, or view all the current reservations available. in customer, you can make a reservation and return a vehicle. 
